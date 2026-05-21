@@ -1,0 +1,14 @@
+[2026-05-21T20:26:13.843Z] SERVIDOR INICIADO em http://localhost:3000
+[2026-05-21T20:28:29.997Z] LOGIN OK - admin@teste.com (admin)
+[2026-05-21T20:29:50.838Z] LOGIN OK - admin@teste.com (admin)
+[2026-05-21T20:29:52.623Z] LOGIN OK - admin@teste.com (admin)
+[2026-05-21T20:31:56.936Z] LOGIN OK - admin@teste.com (admin)
+[2026-05-21T20:37:30.875Z] TOKEN OK - usuário 1 (admin)
+[2026-05-21T20:37:30.877Z] PROFILE acessado por 1
+[2026-05-21T20:38:43.224Z] ACESSO NEGADO - token ausente
+[2026-05-21T20:40:22.326Z] LOGIN OK - user@teste.com (user)
+[2026-05-21T20:43:04.502Z] ACESSO NEGADO - token ausente
+[2026-05-21T20:43:13.809Z] LOGIN FALHOU - matheus@teste.com
+[2026-05-21T20:44:23.820Z] LOGIN OK - user@teste.com (user)
+[2026-05-21T20:44:46.080Z] TOKEN OK - usuário 2 (user)
+[2026-05-21T20:44:46.089Z] ACESSO NEGADO - usuário 2 não é admin
